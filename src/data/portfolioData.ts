@@ -84,7 +84,7 @@ export const PORTFOLIO_DATA = {
     email: "shreyaghimiree@gmail.com",
     phone: "+977 9814991751",
     location: "Kathmandu, Nepal",
-    portrait: "/assets/images/image.png",
+    portrait: "/assets/images/me_11zon_04ec0836.png",
     cvUrl: "/assets/images/ShreyaGhimire_final_41217112.pdf",
     bio: "Backend-focused Software Engineer experienced in building scalable applications and RESTful APIs using Node.js, Express.js, and PostgreSQL. Skilled in database optimization, multi-tenant architecture, payment integrations, real-time systems, and third-party API integrations. Experienced in developing AI-powered features using OpenAI APIs, with additional expertise in React, Next.js, and TypeScript. Strong understanding of system design, application performance, and Agile development practices.",
     philosophy: "Engineering rigor is the synthesis of systematic architecture, reliable database design, and purposeful implementation.",
